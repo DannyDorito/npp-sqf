@@ -1,6 +1,6 @@
 # Notepad++ SQF Syntax Highlighting and Auto Completion
 
-Notepad++ syntax highlighting and autocompletion for SQF (the scripting language for the ArmA games).  
+Notepad++ syntax highlighting and autocompletion for SQF (the scripting language for the ArmA games).
 All known functions from ArmA 3 (and previous titles) are supported. Code block folding is also supported.
 
 ## Installation
@@ -36,7 +36,7 @@ Open "Settings -> Style Configurator". Set the background color and/or font unde
 
 ### Themes
 
-In the themes folder there are ready to use styles you can use instead of the default styles.  
-Open the "autocompletion/SQF.xml" and replace the "<Styles>...</Styles>" section with the content of one of the files in the themes folder.  
-After this, import your modified "autocompletion/SQF.xml" into Notepad++ (see section "Syntax Highlighting").  
-You may remove your existing styles first with "Language -> Define your own Language -> Remove".  
+In the themes folder there are ready to use styles you can use instead of the default styles.
+Open the "autocompletion/SQF.xml" and replace the "<Styles>...</Styles>" section with the content of one of the files in the themes folder.
+After this, import your modified "autocompletion/SQF.xml" into Notepad++ (see section "Syntax Highlighting").
+You may remove your existing styles first with "Language -> Define your own Language -> Remove".
