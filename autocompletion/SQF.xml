@@ -8,18 +8,6 @@
 		<!-- Unfortunately the space character doesn't work as startFunc character. So function parameter hints are currently not possible. -->
 		<Environment ignoreCase="yes" startFunc="" stopFunc="" paramSeparator="," terminal=";" additionalWordChar=""/>
 		<!-- The following items should be alphabetically ordered. -->
-		<KeyWord name="_exception" />
-		<KeyWord name="_forEachIndex" />
-		<KeyWord name="_this" />
-		<KeyWord name="_thisArgs" />
-		<KeyWord name="_thisEvent" />
-		<KeyWord name="_thisEventHandler" />
-		<KeyWord name="_thisFSM" />
-		<KeyWord name="_thisScript" />
-		<KeyWord name="_thisScriptedEventHandler" />
-		<KeyWord name="_time" />
-		<KeyWord name="_x" />
-		<KeyWord name="_y" />
 		<KeyWord name="abs" />
 		<KeyWord name="accTime" />
 		<KeyWord name="acos" />
@@ -901,8 +889,8 @@
 		<KeyWord name="BIS_fnc_curatorVisionModes" />
 		<KeyWord name="BIS_fnc_curatorWaypointPlaced" />
 		<KeyWord name="BIS_fnc_customGPS" />
-		<KeyWord name="BIS_fnc_customGPSvideo" />
 		<KeyWord name="BIS_fnc_customGPSVideo" />
+		<KeyWord name="BIS_fnc_customGPSvideo" />
 		<KeyWord name="BIS_fnc_cutDecimals" />
 		<KeyWord name="BIS_fnc_damageChanged" />
 		<KeyWord name="BIS_fnc_damagePulsing" />
@@ -4678,5 +4666,17 @@
 		<KeyWord name="worldToModel" />
 		<KeyWord name="worldToModelVisual" />
 		<KeyWord name="worldToScreen" />
+		<KeyWord name="_exception" />
+		<KeyWord name="_forEachIndex" />
+		<KeyWord name="_this" />
+		<KeyWord name="_thisArgs" />
+		<KeyWord name="_thisEvent" />
+		<KeyWord name="_thisEventHandler" />
+		<KeyWord name="_thisFSM" />
+		<KeyWord name="_thisScript" />
+		<KeyWord name="_thisScriptedEventHandler" />
+		<KeyWord name="_time" />
+		<KeyWord name="_x" />
+		<KeyWord name="_y" />
 	</AutoComplete>
 </NotepadPlus>
