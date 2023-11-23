@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
-<!-- Created by Sanjo (https://github.com/Sanjo) -->
-<!-- Modified by BangL (https://github.com/BangL) -->
-<!-- Modified by DannyDorito (https://github.com/dannydorito) -->
-<!-- Important: The name of this file must match the name of the user defined language of ArmA 3. -->
+<!-- Created by: Sanjo  https://github.com/Sanjo -->
+<!-- Maintained by: BI Forums Community  https://forums.bohemia.net/forums/topic/138891-arma-3-notepad-syntax-highlighting/ -->
+<!-- Important: The name of this file must match the name of the user defined language of Arma 3. -->
 <NotepadPlus>
 	<AutoComplete language="SQF">
 		<!-- Unfortunately the space character doesn't work as startFunc character. So function parameter hints are currently not possible. -->
@@ -889,8 +888,8 @@
 		<KeyWord name="BIS_fnc_curatorVisionModes" />
 		<KeyWord name="BIS_fnc_curatorWaypointPlaced" />
 		<KeyWord name="BIS_fnc_customGPS" />
-		<KeyWord name="BIS_fnc_customGPSVideo" />
 		<KeyWord name="BIS_fnc_customGPSvideo" />
+		<KeyWord name="BIS_fnc_customGPSVideo" />
 		<KeyWord name="BIS_fnc_cutDecimals" />
 		<KeyWord name="BIS_fnc_damageChanged" />
 		<KeyWord name="BIS_fnc_damagePulsing" />
@@ -3064,6 +3063,7 @@
 		<KeyWord name="getFriend" />
 		<KeyWord name="getFSMVariable" />
 		<KeyWord name="getFuelCargo" />
+		<KeyWord name="getFuelConsumptionCoef" />
 		<KeyWord name="getGraphValues" />
 		<KeyWord name="getGroupIcon" />
 		<KeyWord name="getGroupIconParams" />
@@ -3177,6 +3177,8 @@
 		<KeyWord name="getVehicleCargo" />
 		<KeyWord name="getVehicleTIPars" />
 		<KeyWord name="getVideoOptions" />
+		<KeyWord name="getWaterFillPercentage" />
+		<KeyWord name="getWaterLeakiness" />
 		<KeyWord name="getWeaponCargo" />
 		<KeyWord name="getWeaponSway" />
 		<KeyWord name="getWingsOrientationRTD" />
@@ -3239,6 +3241,7 @@
 		<KeyWord name="humidity" />
 		<KeyWord name="if" />
 		<KeyWord name="image" />
+		<KeyWord name="import" />
 		<KeyWord name="importAllGroups" />
 		<KeyWord name="importance" />
 		<KeyWord name="in" />
@@ -3347,6 +3350,7 @@
 		<KeyWord name="isStreamFriendlyUIEnabled" />
 		<KeyWord name="isStressDamageEnabled" />
 		<KeyWord name="isText" />
+		<KeyWord name="isThrowable" />
 		<KeyWord name="isTouchingGround" />
 		<KeyWord name="isTurnedOut" />
 		<KeyWord name="isTutHintsEnabled" />
@@ -3758,6 +3762,7 @@
 		<KeyWord name="primaryWeaponMagazine" />
 		<KeyWord name="priority" />
 		<KeyWord name="private" />
+		<KeyWord name="privateAll" />
 		<KeyWord name="processDiaryLink" />
 		<KeyWord name="processInitCommands" />
 		<KeyWord name="productVersion" />
@@ -4072,6 +4077,7 @@
 		<KeyWord name="setFSMVariable" />
 		<KeyWord name="setFuel" />
 		<KeyWord name="setFuelCargo" />
+		<KeyWord name="setFuelConsumptionCoef" />
 		<KeyWord name="setGroupIcon" />
 		<KeyWord name="setGroupIconParams" />
 		<KeyWord name="setGroupIconsSelectable" />
@@ -4274,6 +4280,8 @@
 		<KeyWord name="setViewDistance" />
 		<KeyWord name="setVisibleIfTreeCollapsed" />
 		<KeyWord name="setWantedRPMRTD" />
+		<KeyWord name="setWaterFillPercentage" />
+		<KeyWord name="setWaterLeakiness" />
 		<KeyWord name="setWaves" />
 		<KeyWord name="setWaypointBehaviour" />
 		<KeyWord name="setWaypointCombatMode" />
@@ -4449,6 +4457,7 @@
 		<KeyWord name="then" />
 		<KeyWord name="throttleRTD" />
 		<KeyWord name="throw" />
+		<KeyWord name="throwables" />
 		<KeyWord name="time" />
 		<KeyWord name="timeMultiplier" />
 		<KeyWord name="titleCut" />
