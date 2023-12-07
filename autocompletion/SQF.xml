@@ -2480,6 +2480,7 @@
 		<KeyWord name="clearItemCargo" />
 		<KeyWord name="clearItemCargoGlobal" />
 		<KeyWord name="clearItemPool" />
+		<KeyWord name="clearKillConfirmations" />
 		<KeyWord name="clearMagazineCargo" />
 		<KeyWord name="clearMagazineCargoGlobal" />
 		<KeyWord name="clearMagazinePool" />
@@ -3074,6 +3075,7 @@
 		<KeyWord name="fromEditor" />
 		<KeyWord name="fuel" />
 		<KeyWord name="fullCrew" />
+		<KeyWord name="gameValueToJson" />
 		<KeyWord name="gearIDCAmmoCount" />
 		<KeyWord name="gearSlotAmmoCount" />
 		<KeyWord name="gearSlotData" />
@@ -3081,16 +3083,20 @@
 		<KeyWord name="get" />
 		<KeyWord name="get3DENActionState" />
 		<KeyWord name="get3DENAttribute" />
+		<KeyWord name="get3DENAttributes" />
 		<KeyWord name="get3DENCamera" />
 		<KeyWord name="get3DENConnections" />
 		<KeyWord name="get3DENEntity" />
 		<KeyWord name="get3DENEntityID" />
 		<KeyWord name="get3DENGrid" />
 		<KeyWord name="get3DENIconsVisible" />
+		<KeyWord name="get3DENLayer" />
 		<KeyWord name="get3DENLayerEntities" />
 		<KeyWord name="get3DENLinesVisible" />
 		<KeyWord name="get3DENMissionAttribute" />
+		<KeyWord name="get3DENMissionAttributes" />
 		<KeyWord name="get3DENMouseOver" />
+		<KeyWord name="get3DENParent" />
 		<KeyWord name="get3DENSelected" />
 		<KeyWord name="getAimingCoef" />
 		<KeyWord name="getAllEnv3DSoundControllers" />
@@ -3127,6 +3133,7 @@
 		<KeyWord name="getContainerMaxLoad" />
 		<KeyWord name="getCorpse" />
 		<KeyWord name="getCruiseControl" />
+		<KeyWord name="getCurrentPlayerLevel" />
 		<KeyWord name="getCursorObjectParams" />
 		<KeyWord name="getCustomAimCoef" />
 		<KeyWord name="getCustomSoundController" />
@@ -3169,6 +3176,7 @@
 		<KeyWord name="getLighting" />
 		<KeyWord name="getLightingAt" />
 		<KeyWord name="getLoadedModsInfo" />
+		<KeyWord name="getLoginStatus" />
 		<KeyWord name="getMagazineCargo" />
 		<KeyWord name="getMarkerColor" />
 		<KeyWord name="getMarkerPos" />
@@ -3184,6 +3192,7 @@
 		<KeyWord name="getModelInfo" />
 		<KeyWord name="getMousePosition" />
 		<KeyWord name="getMusicPlayedTime" />
+		<KeyWord name="getNextId" />
 		<KeyWord name="getNumber" />
 		<KeyWord name="getObjectArgument" />
 		<KeyWord name="getObjectChildren" />
@@ -3209,7 +3218,9 @@
 		<KeyWord name="getPiPViewDistance" />
 		<KeyWord name="getPlateNumber" />
 		<KeyWord name="getPlayerChannel" />
+		<KeyWord name="getPlayerCloudId" />
 		<KeyWord name="getPlayerID" />
+		<KeyWord name="getPlayerLevel" />
 		<KeyWord name="getPlayerScores" />
 		<KeyWord name="getPlayerUID" />
 		<KeyWord name="getPlayerUIDOld" />
@@ -3333,6 +3344,7 @@
 		<KeyWord name="HUDMovementLevels" />
 		<KeyWord name="humidity" />
 		<KeyWord name="if" />
+		<KeyWord name="ignore3DENHistory" />
 		<KeyWord name="image" />
 		<KeyWord name="import" />
 		<KeyWord name="importAllGroups" />
@@ -3370,6 +3382,7 @@
 		<KeyWord name="isAimPrecisionEnabled" />
 		<KeyWord name="isAISteeringComponentEnabled" />
 		<KeyWord name="isAllowedCrewInImmobile" />
+		<KeyWord name="isAppSubscribed" />
 		<KeyWord name="isArray" />
 		<KeyWord name="isAutoHoverOn" />
 		<KeyWord name="isAutonomous" />
@@ -3427,6 +3440,7 @@
 		<KeyWord name="isOnRoad" />
 		<KeyWord name="isPiPEnabled" />
 		<KeyWord name="isPlayer" />
+		<KeyWord name="isPlayerSupporter" />
 		<KeyWord name="isRealTime" />
 		<KeyWord name="isRemoteControlling" />
 		<KeyWord name="isRemoteExecuted" />
@@ -3466,6 +3480,7 @@
 		<KeyWord name="joinAsSilent" />
 		<KeyWord name="joinSilent" />
 		<KeyWord name="joinString" />
+		<KeyWord name="jsonToGameValue" />
 		<KeyWord name="kbAddDatabase" />
 		<KeyWord name="kbAddDatabaseTargets" />
 		<KeyWord name="kbAddTopic" />
@@ -3477,6 +3492,7 @@
 		<KeyWord name="keyImage" />
 		<KeyWord name="keyName" />
 		<KeyWord name="keys" />
+		<KeyWord name="kickPlayer" />
 		<KeyWord name="knowsAbout" />
 		<KeyWord name="land" />
 		<KeyWord name="landAt" />
@@ -3588,6 +3604,7 @@
 		<KeyWord name="lnbTextRight" />
 		<KeyWord name="lnbValue" />
 		<KeyWord name="load" />
+		<KeyWord name="load3DENScenario" />
 		<KeyWord name="loadAbs" />
 		<KeyWord name="loadBackpack" />
 		<KeyWord name="loadConfig" />
@@ -3777,6 +3794,7 @@
 		<KeyWord name="onGroupIconOverLeave" />
 		<KeyWord name="onHCGroupSelectionChanged" />
 		<KeyWord name="onMapSingleClick" />
+		<KeyWord name="onOfficialServer" />
 		<KeyWord name="onPlayerConnected" />
 		<KeyWord name="onPlayerDisconnected" />
 		<KeyWord name="onPreloadFinished" />
@@ -4059,7 +4077,11 @@
 		<KeyWord name="selectThrowable" />
 		<KeyWord name="selectWeapon" />
 		<KeyWord name="selectWeaponTurret" />
+		<KeyWord name="sendAnalyticEvent" />
 		<KeyWord name="sendAUMessage" />
+		<KeyWord name="sendCloudRequest" />
+		<KeyWord name="sendCloudRequestClient" />
+		<KeyWord name="sendCloudRequestServer" />
 		<KeyWord name="sendSimpleCommand" />
 		<KeyWord name="sendTask" />
 		<KeyWord name="sendTaskResult" />
