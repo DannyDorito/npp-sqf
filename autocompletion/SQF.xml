@@ -3173,6 +3173,7 @@
 		<KeyWord name="getHitIndex" />
 		<KeyWord name="getHitPointDamage" />
 		<KeyWord name="getItemCargo" />
+		<KeyWord name="getLeaning" />
 		<KeyWord name="getLighting" />
 		<KeyWord name="getLightingAt" />
 		<KeyWord name="getLoadedModsInfo" />
@@ -4090,8 +4091,10 @@
 		<KeyWord name="serverCommand" />
 		<KeyWord name="serverCommandAvailable" />
 		<KeyWord name="serverCommandExecutable" />
+		<KeyWord name="serverConfigTopLevelEntry" />
 		<KeyWord name="serverName" />
 		<KeyWord name="serverNamespace" />
+		<KeyWord name="serverStartMission" />
 		<KeyWord name="serverTime" />
 		<KeyWord name="set" />
 		<KeyWord name="set3DENAttribute" />
