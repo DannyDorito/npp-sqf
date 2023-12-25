@@ -4036,6 +4036,7 @@
 		<KeyWord name="safeZoneXAbs" />
 		<KeyWord name="safeZoneY" />
 		<KeyWord name="save3DENInventory" />
+		<KeyWord name="save3DENPreferences" />
 		<KeyWord name="saveGame" />
 		<KeyWord name="saveIdentity" />
 		<KeyWord name="saveJoysticks" />
