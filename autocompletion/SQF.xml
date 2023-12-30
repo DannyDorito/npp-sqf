@@ -3046,6 +3046,7 @@
 		<KeyWord name="forceFlagTexture" />
 		<KeyWord name="forceFollowRoad" />
 		<KeyWord name="forceGeneratorRTD" />
+		<KeyWord name="forceHitPointsDamageSync" />
 		<KeyWord name="forceMap" />
 		<KeyWord name="forceRespawn" />
 		<KeyWord name="forceSpeed" />
