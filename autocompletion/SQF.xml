@@ -18,6 +18,7 @@
 		<KeyWord name="actionKeysNames" />
 		<KeyWord name="actionKeysNamesArray" />
 		<KeyWord name="actionName" />
+		<KeyWord name="actionNow" />
 		<KeyWord name="actionParams" />
 		<KeyWord name="activateAddons" />
 		<KeyWord name="activatedAddons" />
@@ -889,7 +890,6 @@
 		<KeyWord name="BIS_fnc_curatorWaypointPlaced" />
 		<KeyWord name="BIS_fnc_customGPS" />
 		<KeyWord name="BIS_fnc_customGPSVideo" />
-		<KeyWord name="BIS_fnc_customGPSvideo" />
 		<KeyWord name="BIS_fnc_cutDecimals" />
 		<KeyWord name="BIS_fnc_damageChanged" />
 		<KeyWord name="BIS_fnc_damagePulsing" />
@@ -2838,6 +2838,7 @@
 		<KeyWord name="diag_logSlowFrame" />
 		<KeyWord name="diag_mergeConfigFile" />
 		<KeyWord name="diag_recordTurretLimits" />
+		<KeyWord name="diag_resetAnims" />
 		<KeyWord name="diag_resetShapes" />
 		<KeyWord name="diag_scope" />
 		<KeyWord name="diag_setLightNew" />
@@ -3154,6 +3155,7 @@
 		<KeyWord name="getEditorObjectScope" />
 		<KeyWord name="getElevationOffset" />
 		<KeyWord name="getEngineTargetRPMRTD" />
+		<KeyWord name="getEntityInfo" />
 		<KeyWord name="getEnv3DSoundController" />
 		<KeyWord name="getEnvSoundController" />
 		<KeyWord name="getEventHandlerInfo" />
