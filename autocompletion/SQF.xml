@@ -889,6 +889,7 @@
 		<KeyWord name="BIS_fnc_curatorVisionModes" />
 		<KeyWord name="BIS_fnc_curatorWaypointPlaced" />
 		<KeyWord name="BIS_fnc_customGPS" />
+		<KeyWord name="BIS_fnc_customGPSvideo" />
 		<KeyWord name="BIS_fnc_customGPSVideo" />
 		<KeyWord name="BIS_fnc_cutDecimals" />
 		<KeyWord name="BIS_fnc_damageChanged" />
@@ -2110,6 +2111,8 @@
 		<KeyWord name="BIS_fnc_twoWingSlideDoorOpen" />
 		<KeyWord name="BIS_fnc_typeText" />
 		<KeyWord name="BIS_fnc_typeText2" />
+		<KeyWord name="BIS_fnc_unflipThing" />
+		<KeyWord name="BIS_fnc_unflipVehicle" />
 		<KeyWord name="BIS_fnc_uniqueClasses" />
 		<KeyWord name="BIS_fnc_unitAddon" />
 		<KeyWord name="BIS_fnc_unitCapture" />
@@ -2843,6 +2846,7 @@
 		<KeyWord name="diag_scope" />
 		<KeyWord name="diag_setLightNew" />
 		<KeyWord name="diag_setTerrainHeight" />
+		<KeyWord name="diag_SQFCDebugDump" />
 		<KeyWord name="diag_stacktrace" />
 		<KeyWord name="diag_tickTime" />
 		<KeyWord name="diag_toggle" />
@@ -3122,6 +3126,7 @@
 		<KeyWord name="getAudioOptionVolumes" />
 		<KeyWord name="getBackpackCargo" />
 		<KeyWord name="getBleedingRemaining" />
+		<KeyWord name="getBoneNames" />
 		<KeyWord name="getBurningValue" />
 		<KeyWord name="getCalculatePlayerVisibilityByFriendly" />
 		<KeyWord name="getCameraViewDirection" />
@@ -3134,6 +3139,7 @@
 		<KeyWord name="getConnectedUAVUnit" />
 		<KeyWord name="getContainerMaxLoad" />
 		<KeyWord name="getCorpse" />
+		<KeyWord name="getCorpseWeaponholders" />
 		<KeyWord name="getCruiseControl" />
 		<KeyWord name="getCurrentPlayerLevel" />
 		<KeyWord name="getCursorObjectParams" />
@@ -3192,6 +3198,7 @@
 		<KeyWord name="getMissionDLCs" />
 		<KeyWord name="getMissionLayerEntities" />
 		<KeyWord name="getMissionLayers" />
+		<KeyWord name="getMissionOptions" />
 		<KeyWord name="getMissionPath" />
 		<KeyWord name="getModelInfo" />
 		<KeyWord name="getMousePosition" />
@@ -3244,11 +3251,14 @@
 		<KeyWord name="getRemoteSensorsDisabled" />
 		<KeyWord name="getRepairCargo" />
 		<KeyWord name="getResolution" />
+		<KeyWord name="getRespawnVehicleInfo" />
 		<KeyWord name="getRoadInfo" />
 		<KeyWord name="getRotorBrakeRTD" />
+		<KeyWord name="getSelectionBones" />
 		<KeyWord name="getSensorTargets" />
 		<KeyWord name="getSensorThreats" />
 		<KeyWord name="getShadowDistance" />
+		<KeyWord name="getShotInfo" />
 		<KeyWord name="getShotParents" />
 		<KeyWord name="getSlingLoad" />
 		<KeyWord name="getSlotItemName" />
@@ -3276,6 +3286,7 @@
 		<KeyWord name="getTurretOpticsMode" />
 		<KeyWord name="getUnitFreefallInfo" />
 		<KeyWord name="getUnitLoadout" />
+		<KeyWord name="getUnitMovesInfo" />
 		<KeyWord name="getUnitTrait" />
 		<KeyWord name="getUnloadInCombat" />
 		<KeyWord name="getUserInfo" />
@@ -3349,6 +3360,7 @@
 		<KeyWord name="humidity" />
 		<KeyWord name="if" />
 		<KeyWord name="ignore3DENHistory" />
+		<KeyWord name="ignoreTarget" />
 		<KeyWord name="image" />
 		<KeyWord name="import" />
 		<KeyWord name="importAllGroups" />
@@ -4145,6 +4157,7 @@
 		<KeyWord name="setCollisionLight" />
 		<KeyWord name="setCombatBehaviour" />
 		<KeyWord name="setCombatMode" />
+		<KeyWord name="setCompassDeclination" />
 		<KeyWord name="setCompassOscillation" />
 		<KeyWord name="setConvoySeparation" />
 		<KeyWord name="setCruiseControl" />
@@ -4263,6 +4276,7 @@
 		<KeyWord name="setMimic" />
 		<KeyWord name="setMissileTarget" />
 		<KeyWord name="setMissileTargetPos" />
+		<KeyWord name="setMissionOptions" />
 		<KeyWord name="setMousePosition" />
 		<KeyWord name="setMusicEffect" />
 		<KeyWord name="setMusicEventHandler" />
