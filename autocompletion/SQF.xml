@@ -2841,6 +2841,7 @@
 		<KeyWord name="diag_logSlowFrame" />
 		<KeyWord name="diag_mergeConfigFile" />
 		<KeyWord name="diag_recordTurretLimits" />
+		<KeyWord name="diag_remainsCollector" />
 		<KeyWord name="diag_resetAnims" />
 		<KeyWord name="diag_resetShapes" />
 		<KeyWord name="diag_scope" />
