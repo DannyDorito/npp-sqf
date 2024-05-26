@@ -113,6 +113,7 @@
 		<KeyWord name="allActiveTitleEffects" />
 		<KeyWord name="allAddonsInfo" />
 		<KeyWord name="allAirports" />
+		<KeyWord name="allCameras" />
 		<KeyWord name="allControls" />
 		<KeyWord name="allCurators" />
 		<KeyWord name="allCutLayers" />
@@ -2581,6 +2582,7 @@
 		<KeyWord name="createSimpleTask" />
 		<KeyWord name="createSite" />
 		<KeyWord name="createSoundSource" />
+		<KeyWord name="createSoundSourceLocal" />
 		<KeyWord name="createTarget" />
 		<KeyWord name="createTask" />
 		<KeyWord name="createTeam" />
