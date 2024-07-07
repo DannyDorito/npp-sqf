@@ -3331,6 +3331,7 @@
 		<KeyWord name="handgunMagazine" />
 		<KeyWord name="handgunWeapon" />
 		<KeyWord name="handsHit" />
+		<KeyWord name="hasCustomFace" />
 		<KeyWord name="hashValue" />
 		<KeyWord name="hasInterface" />
 		<KeyWord name="hasPilotCamera" />
@@ -3729,6 +3730,7 @@
 		<KeyWord name="min" />
 		<KeyWord name="mineActive" />
 		<KeyWord name="mineDetectedBy" />
+		<KeyWord name="missileState" />
 		<KeyWord name="missileTarget" />
 		<KeyWord name="missileTargetPos" />
 		<KeyWord name="missionConfigFile" />
@@ -4072,6 +4074,7 @@
 		<KeyWord name="scoreSide" />
 		<KeyWord name="screenshot" />
 		<KeyWord name="screenToWorld" />
+		<KeyWord name="screenToWorldDirection" />
 		<KeyWord name="scriptDone" />
 		<KeyWord name="scriptName" />
 		<KeyWord name="scriptNull" />
@@ -4116,6 +4119,7 @@
 		<KeyWord name="serverStartMission" />
 		<KeyWord name="serverTime" />
 		<KeyWord name="set" />
+		<KeyWord name="set3DENAttachedCursorEntity" />
 		<KeyWord name="set3DENAttribute" />
 		<KeyWord name="set3DENAttributes" />
 		<KeyWord name="set3DENGrid" />
