@@ -890,7 +890,6 @@
 		<KeyWord name="BIS_fnc_curatorVisionModes" />
 		<KeyWord name="BIS_fnc_curatorWaypointPlaced" />
 		<KeyWord name="BIS_fnc_customGPS" />
-		<KeyWord name="BIS_fnc_customGPSvideo" />
 		<KeyWord name="BIS_fnc_customGPSVideo" />
 		<KeyWord name="BIS_fnc_cutDecimals" />
 		<KeyWord name="BIS_fnc_damageChanged" />
@@ -2642,6 +2641,7 @@
 		<KeyWord name="ctrlModel" />
 		<KeyWord name="ctrlModelDirAndUp" />
 		<KeyWord name="ctrlModelScale" />
+		<KeyWord name="ctrlModelVectorSide" />
 		<KeyWord name="ctrlMousePosition" />
 		<KeyWord name="ctrlParent" />
 		<KeyWord name="ctrlParentControlsGroup" />
@@ -3082,6 +3082,7 @@
 		<KeyWord name="friendly" />
 		<KeyWord name="from" />
 		<KeyWord name="fromEditor" />
+		<KeyWord name="fromJSON" />
 		<KeyWord name="fuel" />
 		<KeyWord name="fullCrew" />
 		<KeyWord name="gameValueToJson" />
@@ -3224,6 +3225,7 @@
 		<KeyWord name="getOrDefaultCall" />
 		<KeyWord name="getOxygenRemaining" />
 		<KeyWord name="getPersonUsedDLCs" />
+		<KeyWord name="getPhysicsCollisionFlag" />
 		<KeyWord name="getPilotCameraDirection" />
 		<KeyWord name="getPilotCameraOpticsMode" />
 		<KeyWord name="getPilotCameraPosition" />
@@ -3942,6 +3944,7 @@
 		<KeyWord name="remoteControlled" />
 		<KeyWord name="remoteExec" />
 		<KeyWord name="remoteExecCall" />
+		<KeyWord name="remoteExecutedJIPID" />
 		<KeyWord name="remoteExecutedOwner" />
 		<KeyWord name="remove3DENConnection" />
 		<KeyWord name="remove3DENEventHandler" />
@@ -4306,6 +4309,7 @@
 		<KeyWord name="setParticleFire" />
 		<KeyWord name="setParticleParams" />
 		<KeyWord name="setParticleRandom" />
+		<KeyWord name="setPhysicsCollisionFlag" />
 		<KeyWord name="setPilotCameraDirection" />
 		<KeyWord name="setPilotCameraOpticsMode" />
 		<KeyWord name="setPilotCameraRotation" />
@@ -4612,6 +4616,7 @@
 		<KeyWord name="to" />
 		<KeyWord name="toArray" />
 		<KeyWord name="toFixed" />
+		<KeyWord name="toJSON" />
 		<KeyWord name="toLower" />
 		<KeyWord name="toLowerANSI" />
 		<KeyWord name="toString" />
