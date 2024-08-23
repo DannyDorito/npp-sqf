@@ -2735,6 +2735,7 @@
 		<KeyWord name="ctSetRowTemplate" />
 		<KeyWord name="ctSetValue" />
 		<KeyWord name="ctValue" />
+		<KeyWord name="CT_WEBBROWSER" />
 		<KeyWord name="curatorAddons" />
 		<KeyWord name="curatorCamera" />
 		<KeyWord name="curatorCameraArea" />
