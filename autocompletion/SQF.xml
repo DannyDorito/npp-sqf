@@ -3292,6 +3292,7 @@
 		<KeyWord name="getUnitFreefallInfo" />
 		<KeyWord name="getUnitLoadout" />
 		<KeyWord name="getUnitMovesInfo" />
+		<KeyWord name="getUnitState" />
 		<KeyWord name="getUnitTrait" />
 		<KeyWord name="getUnloadInCombat" />
 		<KeyWord name="getUserInfo" />
