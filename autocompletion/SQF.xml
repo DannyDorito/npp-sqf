@@ -2917,6 +2917,7 @@
 		<KeyWord name="drawPolygon" />
 		<KeyWord name="drawRectangle" />
 		<KeyWord name="drawTriangle" />
+		<KeyWord name="drawXPolygon" />
 		<KeyWord name="driver" />
 		<KeyWord name="drop" />
 		<KeyWord name="dynamicSimulationDistance" />
@@ -3479,6 +3480,7 @@
 		<KeyWord name="isSteamOverlayEnabled" />
 		<KeyWord name="isStreamFriendlyUIEnabled" />
 		<KeyWord name="isStressDamageEnabled" />
+		<KeyWord name="isSwitchingWeapon" />
 		<KeyWord name="isText" />
 		<KeyWord name="isThrowable" />
 		<KeyWord name="isTouchingGround" />
