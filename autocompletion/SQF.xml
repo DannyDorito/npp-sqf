@@ -2372,9 +2372,11 @@
 		<KeyWord name="case" />
 		<KeyWord name="catch" />
 		<KeyWord name="CBA_fnc_actionArgument" />
+		<KeyWord name="CBA_fnc_addAttachmentCondition" />
 		<KeyWord name="CBA_fnc_addBackpackCargo" />
 		<KeyWord name="CBA_fnc_addBinocularMagazine" />
 		<KeyWord name="CBA_fnc_addBISEventHandler" />
+		<KeyWord name="CBA_fnc_addBISPlayerEventHandler" />
 		<KeyWord name="CBA_fnc_addClassEventHandler" />
 		<KeyWord name="CBA_fnc_addDisplayHandler" />
 		<KeyWord name="CBA_fnc_addEventHandler" />
@@ -2425,6 +2427,12 @@
 		<KeyWord name="CBA_fnc_CBA_statemachine_fnc_updateList" />
 		<KeyWord name="CBA_fnc_changeKeyHandler" />
 		<KeyWord name="CBA_fnc_clearWaypoints" />
+		<KeyWord name="CBA_fnc_colorAHEXtoDecimal" />
+		<KeyWord name="CBA_fnc_colorARGBtoDecimal" />
+		<KeyWord name="CBA_fnc_colorHEXAtoDecimal" />
+		<KeyWord name="CBA_fnc_colorHEXtoDecimal" />
+		<KeyWord name="CBA_fnc_colorRGBAtoDecimal" />
+		<KeyWord name="CBA_fnc_colorRGBtoDecimal" />
 		<KeyWord name="CBA_fnc_compatibleItems" />
 		<KeyWord name="CBA_fnc_compatibleMagazines" />
 		<KeyWord name="CBA_fnc_compileEventHandlers" />
@@ -2436,6 +2444,10 @@
 		<KeyWord name="CBA_fnc_createNamespace" />
 		<KeyWord name="CBA_fnc_createPerFrameHandlerObject" />
 		<KeyWord name="CBA_fnc_createTrigger" />
+		<KeyWord name="CBA_fnc_createUUID" />
+		<KeyWord name="CBA_fnc_cssColorToDecimal" />
+		<KeyWord name="CBA_fnc_cssColorToHEX" />
+		<KeyWord name="CBA_fnc_cssColorToTexture" />
 		<KeyWord name="CBA_fnc_currentMagazineIndex" />
 		<KeyWord name="CBA_fnc_currentUnit" />
 		<KeyWord name="CBA_fnc_debug" />
@@ -2449,6 +2461,8 @@
 		<KeyWord name="CBA_fnc_dropMagazine" />
 		<KeyWord name="CBA_fnc_dropWeapon" />
 		<KeyWord name="CBA_fnc_encodeJSON" />
+		<KeyWord name="CBA_fnc_escapeRegex" />
+		<KeyWord name="CBA_fnc_execAfterNFrames" />
 		<KeyWord name="CBA_fnc_execNextFrame" />
 		<KeyWord name="CBA_fnc_filter" />
 		<KeyWord name="CBA_fnc_find" />
@@ -2735,6 +2749,7 @@
 		<KeyWord name="ctSetRowTemplate" />
 		<KeyWord name="ctSetValue" />
 		<KeyWord name="ctValue" />
+		<KeyWord name="CT_WEBBROWSER" />
 		<KeyWord name="curatorAddons" />
 		<KeyWord name="curatorCamera" />
 		<KeyWord name="curatorCameraArea" />
