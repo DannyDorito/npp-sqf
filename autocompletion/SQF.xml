@@ -4703,6 +4703,7 @@
 		<KeyWord name="UAVControl" />
 		<KeyWord name="uiNamespace" />
 		<KeyWord name="uiSleep" />
+		<KeyWord name="uiTime" />
 		<KeyWord name="unassignCurator" />
 		<KeyWord name="unassignItem" />
 		<KeyWord name="unassignTeam" />
