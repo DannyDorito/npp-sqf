@@ -123,6 +123,7 @@
 		<KeyWord name="allDiarySubjects" />
 		<KeyWord name="allDisplays" />
 		<KeyWord name="allEnv3DSoundSources" />
+		<KeyWord name="allExtensions" />
 		<KeyWord name="allGroups" />
 		<KeyWord name="allLODs" />
 		<KeyWord name="allMapMarkers" />
