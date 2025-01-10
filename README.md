@@ -22,7 +22,7 @@ The steps in the section "Syntax Highlighting" are required for auto completion.
 4. Go to the tab "Auto-Completion".
 5. Choose following options:
   - Enable "Enable auto-completion on each input"
-  - Choose "Function completion"
+  - Choose "Function completion" or "Function and word completion"
   - Set "From 3th character" (or what you prefer)
 
 ## How to modify styles
