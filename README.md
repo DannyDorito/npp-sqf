@@ -8,10 +8,9 @@ All known functions from ArmA 3 (and previous titles) are supported. Code block 
 
 ### Syntax Highlighting
 
-1. Open Notepad++.
-2. Click in the menu on: "Language -> Define your own Language -> Import".
-3. Import the file "syntaxhighlighting/SQF.xml".
-4. Restart Notepad++.
+1. Open the file "syntaxhighlighting/SQF.xml" and copy the contents.
+2. Open the file "C:\Users\USERNAME\AppData\Roaming\Notepad++\userDefineLang.xml" and paste
+3. Restart Notepad++.
 
 ### Auto Completion
 
