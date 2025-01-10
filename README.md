@@ -9,17 +9,17 @@ All known functions from ArmA 3 (and previous titles) are supported. Code block 
 ### Syntax Highlighting
 
 1. Open the file "syntaxhighlighting/SQF.xml" and copy the contents.
-2. Open the file "C:\Users\USERNAME\AppData\Roaming\Notepad++\userDefineLang.xml" and paste
+2. Open the file "C:\Users\USERNAME\AppData\Roaming\Notepad++\userDefineLang.xml" and paste.
 3. Restart Notepad++.
 
 ### Auto Completion
 
 The steps in the section "Syntax Highlighting" are required for auto completion.
 
-1. Copy the file "autocompletion/SQF.xml" into the folder "C:\Program Files (x86)\Notepad++\plugins\APIs" (or where you installed Notepad++).
+1. Copy the file "autocompletion/SQF.xml" into the folder "C:\Program Files (x86)\Notepad++\autoCompletion" (or where you installed Notepad++).
 2. Restart Notepad++.
 3. Open "Settings -> Preferences..." in Notepad++.
-4. Go to the tab "Backup/Auto-Completion".
+4. Go to the tab "Auto-Completion".
 5. Choose following options:
   - Enable "Enable auto-completion on each input"
   - Choose "Function completion"
