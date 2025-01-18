@@ -8,9 +8,8 @@ All known functions from ArmA 3 (and previous titles) are supported. Code block 
 
 ### Syntax Highlighting
 
-1. Open the file "syntaxhighlighting/SQF.xml" and copy the contents.
-2. Open the file "C:\Users\USERNAME\AppData\Roaming\Notepad++\userDefineLang.xml" and paste.
-3. Restart Notepad++.
+1. Copy the file "syntaxhighlighting/SQF.xml" into the folder "%AppData%\Notepad++\userDefineLangs" (this is the same as going to "C:\Users\USER_NAME\AppData\Roaming\Notepad++\userDefineLangs".
+2. Restart Notepad++.
 
 ### Auto Completion
 
