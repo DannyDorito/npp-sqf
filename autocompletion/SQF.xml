@@ -3279,6 +3279,7 @@
 		<KeyWord name="getSelectionBones" />
 		<KeyWord name="getSensorTargets" />
 		<KeyWord name="getSensorThreats" />
+		<KeyWord name="getServerInfo" />
 		<KeyWord name="getShadowDistance" />
 		<KeyWord name="getShotInfo" />
 		<KeyWord name="getShotParents" />
