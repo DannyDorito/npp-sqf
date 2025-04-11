@@ -63,6 +63,7 @@
 		<KeyWord name="addMagazineGlobal" />
 		<KeyWord name="addMagazinePool" />
 		<KeyWord name="addMagazines" />
+		<KeyWord name="addMagazinesTurret" />
 		<KeyWord name="addMagazineTurret" />
 		<KeyWord name="addMenu" />
 		<KeyWord name="addMenuItem" />
@@ -2742,6 +2743,7 @@
 		<KeyWord name="ctrlURL" />
 		<KeyWord name="ctrlURLOverlayMode" />
 		<KeyWord name="ctrlVisible" />
+		<KeyWord name="ctrlWebBrowserAction" />
 		<KeyWord name="ctRowControls" />
 		<KeyWord name="ctRowCount" />
 		<KeyWord name="ctSetCurSel" />
@@ -3982,6 +3984,8 @@
 		<KeyWord name="removeAllHandgunItems" />
 		<KeyWord name="removeAllItems" />
 		<KeyWord name="removeAllItemsWithMagazines" />
+		<KeyWord name="removeAllMagazines" />
+		<KeyWord name="removeAllMagazinesTurret" />
 		<KeyWord name="removeAllMissionEventHandlers" />
 		<KeyWord name="removeAllMPEventHandlers" />
 		<KeyWord name="removeAllMusicEventHandlers" />
